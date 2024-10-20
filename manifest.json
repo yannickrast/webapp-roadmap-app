@@ -1,0 +1,8 @@
+{
+  "name": "Roadmap App",
+  "short_name": "Roadmap",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#000000",
+  "description": "Web site created using create-react-app"
+}
